@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ## `$whoami`
+
+- I'm Anthony 🧔🏾‍♂️
+- I love programming and technology 👨🏾‍💻🛜
+- I currently write in python and bash 🌍
