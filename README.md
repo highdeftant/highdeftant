@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 ## `$whoami`
 
 - I'm Anthony 🧔🏾‍♂️
-- I love programming and technology 👨🏾‍💻🛜
-- I currently write in python and bash 🌍
+- I love Programming, Technology and Networking 👨🏾‍💻🛜
+- I currently use Arch Linux and write in Python and Bash 🌍
