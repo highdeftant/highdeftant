@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 ## `$whoami`
 
 - I'm Anthony 🧔🏾‍♂️
-- I love Programming, Technology and Networking 👨🏾‍💻🛜
+- Interests are Programming, Technology and Networking 👨🏾‍💻🛜
 - I currently use Arch Linux and write in Python and Bash 🌍
-- Widening my current knowledge by developing on the Flipper Zero
+- Learning pentesting by developing on and using the Flipper Zero
