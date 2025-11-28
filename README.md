@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 - I'm Anthony 🧔🏾‍♂️
 - I love Programming, Technology and Networking 👨🏾‍💻🛜
-- I currently use Arch Linux and write in Python, Rust and Bash 🐍🦀🌍
-- Widening my current knowledge by developing on the Flipper Zero
+- I currently use Arch Linux and write in Python, Rust, and Bash 🐍🦀🌍
+- Widening my current knowledge by developing on the Flipper Zero 🐬
 
