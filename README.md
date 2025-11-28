@@ -16,12 +16,7 @@ Here are some ideas to get you started:
 ## `$whoami`
 
 - I'm Anthony 🧔🏾‍♂️
-<<<<<<< HEAD
-- Interests are Programming, Technology and Networking 👨🏾‍💻🛜
-- I currently use Linux and write in Python and Bash 🌍
-- Learning pentesting by developing on and using the Flipper Zero 🐬
-=======
 - I love Programming, Technology and Networking 👨🏾‍💻🛜
 - I currently use Arch Linux and write in Python, Rust and Bash 🐍🦀🌍
 - Widening my current knowledge by developing on the Flipper Zero
->>>>>>> 620571b (bio update)
+
